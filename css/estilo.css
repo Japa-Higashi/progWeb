@@ -125,3 +125,10 @@ color:@calendar-standout;
 font-weight:bold;
 }
 }
+footer{
+	height: 50px;
+	background: #1b1b1b;
+	margin:0;
+	color: white;
+	padding-top: 10px;
+}
